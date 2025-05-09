@@ -2,7 +2,7 @@ mkdir mi_proyecto
 cd mi_proyecto
 
 git init
-git clone https://github.com/usuario/nombre_repositorio.git
+git clone https://github.com/KikeCano03/A/edit/main/Git
 cd nombre_repositorio
 
 
